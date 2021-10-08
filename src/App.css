@@ -40,3 +40,8 @@
 .active {
   color: green !important
 }
+
+.profileImage {
+  width: 15%;
+  border-radius: 50%;
+}
