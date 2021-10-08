@@ -31,6 +31,20 @@ export default function Contact() {
     // Preventing the default behavior of the form submit (which is to refresh the page)
     e.preventDefault();
 
+    if (name.length === 0) {
+			alert("You must enter a name");
+			return;
+		}
+		if (email.length === 0) {
+			alert("You must enter a email");
+			return;
+		}
+		if (message.length === 0) {
+			alert("You must enter a message");
+			return;
+		}
+
+
     // First we check to see if the email is not valid or if the userName is empty. If so we set an error message to be displayed on the page.
     if (!validateEmail(email) || !name || !email || !message) {
       setErrorMessage("Email or username is invalid");
@@ -39,7 +53,7 @@ export default function Contact() {
       // Then we check to see if the password is not valid. If so, we set an error message regarding the password.
     }
 
-    alert(`Hello ${name}`);
+    alert(`Correct info has been entered ${name}`);
 
     // If everything goes according to plan, we want to clear out the input after a successful registration.
     setName("");
