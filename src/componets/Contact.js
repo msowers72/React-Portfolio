@@ -32,15 +32,15 @@ export default function Contact() {
     e.preventDefault();
 
     if (name.length === 0) {
-			alert("You must enter a name");
+			alert("Please enter a validate name");
 			return;
 		}
 		if (email.length === 0) {
-			alert("You must enter a email");
+			alert("Please must enter a validate email");
 			return;
 		}
 		if (message.length === 0) {
-			alert("You must enter a message");
+			alert("Please must enter a vaidate message");
 			return;
 		}
 
