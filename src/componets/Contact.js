@@ -93,6 +93,19 @@ export default function Contact() {
           <button type="button" onClick={handleFormSubmit}>
             Submit
           </button>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
         </form>
 
         {errorMessage && (
@@ -101,6 +114,7 @@ export default function Contact() {
           </div>
         )}
       </div>
+      
     </div>
   );
 }
