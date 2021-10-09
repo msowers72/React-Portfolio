@@ -7,6 +7,7 @@ import About from "./componets/About";
 import Contact from "./componets/Contact";
 import Portfolio from "./componets/Portfolio";
 import Resume from "./componets/Resume";
+import Footer from "./componets/Footer";
 
 function App() {
   const [ currentPage, setCurrentPage ] = useState("home");
@@ -39,6 +40,7 @@ function App() {
       ></Navbar>
 
       {renderPage()}
+      <Footer></Footer>
     </div>
   );
 }

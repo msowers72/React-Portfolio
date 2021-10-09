@@ -19,12 +19,12 @@ export default function About() {
 					</p>
 				</div>
 				<div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
-					<button className="btn btn-primary btn-lg px-4 gap-3">
+					{/* <button className="btn btn-primary btn-lg px-4 gap-3">
 						Button
 					</button>
 					<button className="btn btn-outline-secondary btn-lg px-4 gap-3">
 						Button
-					</button>
+					</button> */}
 				</div>
 			</div>
 		</div>
