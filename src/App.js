@@ -2,7 +2,8 @@ import React, { useState } from "react";
 
 import "./App.css";
 import Navbar from "./componets/Navbar";
-import Home from "./pages/Home";
+import Home from "./componets/Home";
+// import Home from "./pages/Home";
 import About from "./componets/About";
 import Contact from "./componets/Contact";
 import Portfolio from "./componets/Portfolio";
@@ -10,7 +11,7 @@ import Resume from "./componets/Resume";
 import Footer from "./componets/Footer";
 
 function App() {
-  const [ currentPage, setCurrentPage ] = useState("home");
+  const [ currentPage, setCurrentPage ] = useState("Home");
 
   const renderPage = () => {
     if (currentPage === "Home") {
@@ -33,7 +34,8 @@ function App() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className="App">
+
+    <div className="App d-flex flex-column justify-content-between">
       <Navbar
         currentPage={currentPage}
         handlePageChange={handlePageChange}

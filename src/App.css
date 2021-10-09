@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  height: 100vh;
+  margin: 0;
+  background-color: rgba(30, 73, 64, 0.315);
+
 }
 
 .App-logo {
@@ -38,7 +42,7 @@
 }
 
 .active {
-  color: green !important
+  color: white !important
 }
 
 .profileImage {

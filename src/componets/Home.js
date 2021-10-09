@@ -11,19 +11,12 @@ export default function Home() {
       
       
       
-      <h1 className="display-5 fw-bold">Home Page</h1>
+      <h1 className="display-5 fw-bold">Welcome!</h1>
 
       <div>
       </div>
 
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      
      
 
     </div>
