@@ -12,7 +12,7 @@ export default function About() {
 				<h1 className="display-5 fw-bold">About</h1>
 				<div className="col-lg-6 mx-auto">
 					<p>
-						
+					Full Stack Web Developer with a background in the Financial Services Industry and life-long dedication to learning. Effective at combining creativity and problem solving to develop user- friendly applications. Known among colleagues for strong wit and attention to detail no matter the complexity of the project.
 					</p>
 				</div>
 				<div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
