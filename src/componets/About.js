@@ -12,10 +12,7 @@ export default function About() {
 				<h1 className="display-5 fw-bold">About</h1>
 				<div className="col-lg-6 mx-auto">
 					<p>
-						Lorem ipsum dolor sit amet consectetur, adipisicing
-						elit. Soluta fugit distinctio deserunt, iusto pariatur a
-						magnam minus quod rem optio nisi qui sunt, voluptatum
-						eligendi. Blanditiis vel fugiat voluptate laudantium.
+						
 					</p>
 				</div>
 				<div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
