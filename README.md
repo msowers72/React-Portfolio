@@ -27,11 +27,14 @@ Create new deposits or withdraw transactions. Transactions,
 can be created whether the user is online or offline.
 
 ## Dependencies
-* Express
-* Mongoose
-* Morgan
-* Compression
-* Lite-server
+* @testing-Libray/jest-dom
+* @testing-library/react
+* @testing-Library/user-event
+* bootstrap
+* react
+* react-dom
+* react-scripts
+* web-vitals
    
 
 ## Licenses 
