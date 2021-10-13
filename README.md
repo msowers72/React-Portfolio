@@ -49,4 +49,4 @@ Traverse the applications navnavigation-bar and you will have access to my resum
 
 
 
- https://msowers72.github.io/React-Portfolio/#about
+ 
