@@ -23,8 +23,8 @@ the portfolio page allows potential employers and colleagues to track my work
 as a developer.
 
 ## Usage
-Create new deposits or withdraw transactions. Transactions,
-can be created whether the user is online or offline.
+Traverse the applications navnavigation-bar and you will have access to my resume and project history.
+
 
 ## Dependencies
 * @testing-Libray/jest-dom
@@ -45,4 +45,4 @@ can be created whether the user is online or offline.
  [Budget-Tracker Link](https://immense-bastion-84166.herokuapp.com/)
  
  
- ![images](./assets/total.png) 
+ ![images](./assets/react.gif) 
