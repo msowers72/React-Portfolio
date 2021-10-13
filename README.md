@@ -42,7 +42,11 @@ Traverse the applications navnavigation-bar and you will have access to my resum
 <!-- ![Tux, the Linux mascot](https://img.shields.io/badge/License-MIT-green) -->
   
  ## Deployed
- [React-Portfolio Link](https://immense-bastion-84166.herokuapp.com/)
+ [React-Portfolio Link](https://msowers72.github.io/React-Portfolio/#about)
  
  
  ![images](./assets/react.gif) 
+
+
+
+ https://msowers72.github.io/React-Portfolio/#about

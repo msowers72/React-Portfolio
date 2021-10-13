@@ -10,7 +10,7 @@ export default function Footer() {
         <a className="nav-link" target="blank" href="https://www.linkedin.com/in/michael-sowers-9b4578a/">
           LinkedIn
         </a>
-        <a className="nav-link" target="blank" href="https://www.facebook.com">
+        <a className="nav-link" target="blank" href="https://msowers72.github.io/My-Portfolio/">
           Portfolio
         </a>
       </div>
