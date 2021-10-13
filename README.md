@@ -17,10 +17,10 @@
 <msowers72@yahoo.com>
 
 ## Description:
-Users of this unique Budget Tracker application will be able to add 
-expenses and deposits with or without an internet connection. If, a 
-user updates the application offline, the changes will be reflected when
-the connection is re-established. 
+This portfolio page was built using React. The application
+allows me to continually update my projects and modify content. Additionally,
+the portfolio page allows potential employers and colleagues to track my work   
+as a developer.
 
 ## Usage
 Create new deposits or withdraw transactions. Transactions,
